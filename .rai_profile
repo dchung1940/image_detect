@@ -1,0 +1,12 @@
+profile:
+	id: 5d97b22188a5ec28f9cb9503
+	firstname: Jesse
+	lastname: Wu
+	username: jessezw2
+	email: jessezw2@illinois.edu
+	access_key: auth0|5d97b221f208d00e16eca81a  
+	secret_key: JGFyZ29uMmkkdj0xOSRtPTMyNzY4LHQ9NCxwPTQkWlY1dDg0TzhzU3pLTStpM0ZabE9hUSRFOW4rRGN3eldjeUhsWG1EMEdReWdITkhnSVU5bUNVUzBCS1R2UXg1aVJZ
+	affiliation: uiuc
+	team:
+		name: we_got_cookies
+	role: ece408
